@@ -63,6 +63,6 @@ swiftc hacking.swift greet.swift -o bin/greet
 
 This project is part of an ongoing offensive security study, where concepts from *Hacking with Go* are rewritten and modernized using expressive, cross-platform languages.
 
-All content is being created with support from ChatGPT and will be published with well-documented commits and technical articles per chapter.
+This project is part of my learning journey, where I'm studying and building each chapter with support and guidance from ChatGPT. Everything is being written with detailed explanations, clean commits, and will be published alongside technical articles to help others learn too.
 
 ---
