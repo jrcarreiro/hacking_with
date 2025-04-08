@@ -1,0 +1,29 @@
+# System
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Ruby
+/ruby/.bundle/
+/ruby/vendor/
+/ruby/lib/hacking/Gemfile.lock
+
+# Swift (SPM)
+/swift/.build/
+/swift/.swiftpm/
+/swift/Package.resolved
+
+# Xcode (if opened via Xcode)
+/swift/*.xcodeproj/
+/swift/*.xcworkspace/
+/swift/**/*.xcuserstate
+/swift/**/*.xcuserdatad/
+/swift/**/*.xcschememanagement.plist
+
+# Swiftc
+/swiftc/bin/
+/swiftc/*.o
+/swiftc/*.exe
+/swiftc/greet
+/swiftc/hello
