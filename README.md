@@ -62,8 +62,6 @@ Each chapter includes:
 - Swift **6.1** (via Xcode or official binaries)
 - macOS or Linux with Swift support
 
-```
-
 ---
 
 ## 🚀 Learning in Public
